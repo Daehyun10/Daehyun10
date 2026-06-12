@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 개발하는 사람입니다.
+😊hi my name is Kim Dae Hyun
 
 Unity, 웹, 자동화 도구를 만들며 아이디어를 실제로 움직이는 결과물로 바꾸는 것을 좋아합니다.  
 작게 실험하고, 빠르게 검증하고, 다시 다듬는 방식으로 프로젝트를 키워갑니다.
@@ -14,9 +14,6 @@ Unity, 웹, 자동화 도구를 만들며 아이디어를 실제로 움직이는
 
 | Project | Description |
 | --- | --- |
-| `IdealGasLiquefactionUnity` | 이상기체와 액화 과정을 다루는 Unity 프로젝트 |
-| `TerrainAdaptiveProceduralAnimation` | 지형에 반응하는 절차적 애니메이션 실험 |
-| `YunseoAVisualNovelUnity` | 비주얼 노벨 형식의 Unity 프로젝트 |
 | `price_monitoring_system` | 가격 변화를 추적하는 모니터링 시스템 |
 | `smartstore-monitor-public` | 스마트스토어 관련 모니터링 도구 |
 
@@ -40,13 +37,13 @@ Creative Coding    ███████████░░░░
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daehyun10&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun10&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Contact
 
-- GitHub: `https://github.com/YOUR_GITHUB_USERNAME`
+- GitHub: `https://github.com/Daehyun10`
 - Portfolio: 준비 중
 
 ---
