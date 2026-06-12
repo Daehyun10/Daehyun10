@@ -1,4 +1,4 @@
-😊## hi my name is Kim Dae Hyun
+## 😊 hi my name is Kim Dae Hyun
 
 Unity, 웹, 자동화 도구를 만들며 아이디어를 실제로 움직이는 결과물로 바꾸는 것을 좋아합니다.  
 작게 실험하고, 빠르게 검증하고, 다시 다듬는 방식으로 프로젝트를 키워갑니다.
