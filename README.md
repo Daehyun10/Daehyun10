@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Daehyun10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daehyun10&show_icons=true&theme=radical)
-![kimdaehyun123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=Kimdaehyun123)
+![Daehyun10's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kimdaehyun123)
 
 <!--
 **Daehyun10/Daehyun10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
