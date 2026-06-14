@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kim Dae Hyun
+# Hi, I'm Dae Hyun
 
 **남들이 생각하지 못하고 개발하지 못하는것을 시도하며 해결해나가는 개발자입니다.**
 
