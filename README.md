@@ -19,13 +19,10 @@
 - 반복되는 작업은 자동화해서 시간을 아낍니다.
 - 작은 아이디어라도 실제로 작동하는 결과물까지 가져가는 편입니다.
 
-## Projects
+## problem-solve
+- Main Account</br>
+[![LSolveRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaehyun123)](https://solved.ac/profile/kimdaehyun123)
 
-| Project | What it does |
-| --- | --- |
-| `price_monitoring_system` | 가격 변화를 추적하고 확인하는 모니터링 시스템 |
-| `smartstore-monitor-public` | 스마트스토어 데이터를 더 쉽게 살펴보기 위한 도구 |
-| `wolgyetime` | 학교 전용 익명 커뮤니티 |
 
 ## Tech Stack
 Main
@@ -55,21 +52,6 @@ Creative Coding   [###########...]
 ```
 
 
-
-## problem-solve
-- Main Account</br>
-[![LSolveRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaehyun123)](https://solved.ac/profile/kimdaehyun123)
-
-
-## GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daehyun10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Contact
 
