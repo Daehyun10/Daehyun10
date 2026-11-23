@@ -21,7 +21,7 @@
 
 ## problem-solve
 - Main Account</br>
-[![LSolveRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaehyun123)](https://solved.ac/profile/kimdaehyun123)
+[![LSolveRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaehyun123)](https://solved.ac/profile/cod_mas)
 
 
 ## Languages
